@@ -1,7 +1,7 @@
 ---
 name: Reading template
 about: Fill when finding new literature to read
-title: "[LITERATURE]"
+title: INSERT_PAPER_TITLE
 labels: Reading, Research
 assignees: ''
 
@@ -9,6 +9,7 @@ assignees: ''
 
 title: [PAPER TITLE]
 first author: [ONE AUTHOR]
+link: [URL]
 
 link to zotero: (post skimmed)
 
